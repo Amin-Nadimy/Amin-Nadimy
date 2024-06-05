@@ -6,11 +6,28 @@ CFD Code Developer
 
 I am a PhD candidate at Imperial College London, working on CFD code development using convolutional neural networks (CNNs)
 
-## Example of Carlisle 2005 Flood Event Modelled with NN4PDEs
-<img src="https://github.com/Amin-Nadimy/Shallow_Water_Equations_-SWE-/blob/main/SWE_2.gif" width="512" />
 
-
-* 🌍  I'm based in London
+<table>
+    <tr>
+        <th>Repository</th>
+        <th>Demo</th>
+        <th>Description</th>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://github.com/Amin-Nadimy/Shallow_Water_Equations_NN4PDEs">Project link</a>
+        </td>
+        <td>
+            <img src="https://github.com/Amin-Nadimy/Shallow_Water_Equations_-SWE-/blob/main/SWE_2.gif" width="512" />
+        </td>
+        <!-- Start of new column data -->
+        <td>
+            <div align="center">
+                Carlisle 2005 Flood Event Modelled with NN4PDEs.
+            </div>
+        </td>
+    </tr>
+</table>
 
 ### Skills
 
