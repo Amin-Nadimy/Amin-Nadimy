@@ -23,7 +23,7 @@ I am a PhD candidate at Imperial College London, working on CFD code development
         <!-- Start of new column data -->
         <td>
             <div align="center">
-                Carlisle 2005 Flood Event Modelled with NN4PDEs.
+                Carlisle 2005 Flood Event Modelled with NN4PDEs. This model has 1 global domain with a fixed resolution.
             </div>
         </td>
     </tr>
