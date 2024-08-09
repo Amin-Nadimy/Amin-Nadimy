@@ -35,7 +35,7 @@ I am a PhD candidate at Imperial College London, working on CFD code development
         </td>
         <!-- Start of new column data column 2 --> 
         <td>
-            <img src="https://github.com/Amin-Nadimy/City-Scale-Atmospheric-Boundary-Layer/blob/main/Image_video/South_Kensington_demo.gif" width="512" />
+            <img src="https://github.com/Amin-Nadimy/City-Scale-Atmospheric-Boundary-Layer/blob/main/Documents/South_Kensington_demo.gif" width="512" />
         </td>
         <!-- Start of new column data column 3 -->
         <td>
