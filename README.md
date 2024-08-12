@@ -15,6 +15,23 @@ I am a PhD candidate at Imperial College London, working on CFD code development
     </tr>
     <tr>
         <td>
+            <a href="https://github.com/Amin-Nadimy/Advection_Diffusion_NN4PDEs">Advection-Diffusion</a>
+        </td>
+        <!-- Start of new column data column 2 -->
+        <td>
+            <div align="center">
+                <img src="https://github.com/Amin-Nadimy/Advection_Diffusion_NN4PDEs/blob/main/Documents/adv_diff.gif" width="256" />
+            </div>    
+        </td>
+        <!-- Start of new column data column 3 -->
+        <td>
+            <div align="center">
+                Advectio-diffusion equation modelled with NN4PDEs. This model has 1 global domain with a size of 256 by 256 and a fixed resolution.
+            </div>
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://github.com/Amin-Nadimy/Shallow_Water_Equations_NN4PDEs">Flood Project</a>
         </td>
         <!-- Start of new column data column 2 -->
@@ -24,7 +41,7 @@ I am a PhD candidate at Imperial College London, working on CFD code development
         <!-- Start of new column data column 3 -->
         <td>
             <div align="center">
-                Carlisle 2005 Flood Event Modelled with NN4PDEs. This model has 1 global domain with a fixed resolution.
+                Carlisle 2005 Flood Event modelled with NN4PDEs. This model has 1 global domain with a fixed resolution.
             </div>
         </td>
     </tr>
