@@ -47,7 +47,7 @@ I am a PhD candidate at Imperial College London, working on CFD code development
         <!-- Start of new column data column 3 -->
         <td>
             <div align="center">
-                Carlisle 2005 Flood Event modelled with NN4PDEs. This model has 1 domain with a fixed resolution.
+                Carlisle 2005 Flood Event modelled with NN4PDEs. This model has 1 domain with a uniform resolution.
             </div>
         </td>
     </tr>
@@ -65,7 +65,7 @@ I am a PhD candidate at Imperial College London, working on CFD code development
         <!-- Start of new column data column 3 -->
         <td>
             <div align="center">
-                Carlisle 2005 Flood Event modelled with NN4PDEs. This model has 21 subdomains with varying resolutions.
+                Carlisle 2005 Flood Event modelled with NN4PDEs. This model has 21 subdomains with non-uniform resolutions.
             </div>
         </td>
     </tr>
