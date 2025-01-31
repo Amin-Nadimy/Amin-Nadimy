@@ -29,7 +29,7 @@ I am a PhD candidate at Imperial College London, working on CFD code development
         <!-- Start of new column data column 3 -->
         <td>
             <div align="center">
-                Advectio-diffusion equation modelled with NN4PDEs. This model has 1 global domain with a size of 256 by 256 and a fixed resolution.
+                Advectio-diffusion equation modelled with NN4PDEs. This model has 1 global domain with a size of 256 by 256 and a uniform resolution.
             </div>
         </td>
     </tr>
