@@ -30,6 +30,7 @@ I am a PhD candidate at Imperial College London, working on CFD code development
             </div>
         </td>
     </tr>
+    <!-- Start of new row data -->
     <tr>
         <td>
             <a href="https://github.com/Amin-Nadimy/Shallow_Water_Equations_NN4PDEs">Flood Project</a>
@@ -41,7 +42,23 @@ I am a PhD candidate at Imperial College London, working on CFD code development
         <!-- Start of new column data column 3 -->
         <td>
             <div align="center">
-                Carlisle 2005 Flood Event modelled with NN4PDEs. This model has 1 global domain with a fixed resolution.
+                Carlisle 2005 Flood Event modelled with NN4PDEs. This model has 1 domain with a fixed resolution.
+            </div>
+        </td>
+    </tr>
+    <!-- Start of new row data -->
+    <tr>
+        <td>
+            <a href="https://github.com/Amin-Nadimy/Shallow_Water_Equations_NN4PDEs">Flood Modelling on Non-Uniform Grids</a>
+        </td>
+        <!-- Start of new column data column 2 -->
+        <td>
+            <img src="https://github.com/Amin-Nadimy/Shallow_Water_Equations_NN4PDEs/blob/main/Demos/SWE_2_gif.gif" width="512" />
+        </td>
+        <!-- Start of new column data column 3 -->
+        <td>
+            <div align="center">
+                Carlisle 2005 Flood Event modelled with NN4PDEs. This model has 21 subdomains with varying resolutions.
             </div>
         </td>
     </tr>
