@@ -60,7 +60,7 @@ I am a PhD candidate at Imperial College London, working on CFD code development
         </td>
         <!-- Start of new column data column 2 -->
         <td>
-            <img src="https://github.com/Amin-Nadimy/Shallow_Water_Equations_NN4PDEs/blob/main/Demos/SWE_2_gif.gif" width="512" />
+            <img src="https://github.com/Amin-Nadimy/Flood-Modelling-on-Non-Uniform-Grids/blob/main/Demo/flexible_L.png" width="512" />
         </td>
         <!-- Start of new column data column 3 -->
         <td>
