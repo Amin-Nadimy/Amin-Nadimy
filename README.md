@@ -1,4 +1,4 @@
-Hi 👋 My name is Amin
+Hi 👋 my name is Amin
 =====================
 
 CFD Code Developer
