@@ -1,7 +1,7 @@
 Hi 👋 my name is Amin
 =====================
 
-CFD Code Developer
+Software and CFD Code Developer
 ------------------
 
 I am a postdoctoral researcher at Imperial College London, focusing on software development and the development of CFD codes using convolutional neural networks (CNNs).
