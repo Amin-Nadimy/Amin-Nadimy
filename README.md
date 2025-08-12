@@ -60,7 +60,7 @@ I am a postdoctoral researcher at Imperial College London, focusing on software 
         </td>
         <!-- Start of new column data column 2 -->
         <td>
-            <img src="https://github.com/Amin-Nadimy/Flood-Modelling-on-Non-Uniform-Grids-7-sd/blob/main/Demo/flexible_L.jpg" width="512" />
+            <img src="https://github.com/Amin-Nadimy/Flood-Modelling-on-Non-Uniform-Grids-7-sd/blob/main/Demo/flexible_L.png" width="512" />
         </td>
         <!-- Start of new column data column 3 -->
         <td>
@@ -78,7 +78,7 @@ I am a postdoctoral researcher at Imperial College London, focusing on software 
         </td>
         <!-- Start of new column data column 2 -->
         <td>
-            <img src="https://github.com/Amin-Nadimy/Flood-Modelling-on-Non-Uniform-Grids/blob/main/Demo/flexible_L.png" width="512" />
+            <img src="https://github.com/Amin-Nadimy/Flood-Modelling-on-Non-Uniform-Grids/blob/main/Demo/flexible_L.jpg" width="512" />
         </td>
         <!-- Start of new column data column 3 -->
         <td>
